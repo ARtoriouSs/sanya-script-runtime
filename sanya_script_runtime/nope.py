@@ -1,5 +1,5 @@
 from .type import Type
-from ..runtime_error import RuntimeError
+from .runtime_error import RuntimeError
 
 
 class Nope(Type):

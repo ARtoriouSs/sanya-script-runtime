@@ -1,7 +1,7 @@
 from .type import Type
 from .node import Node
 from .graph import Graph
-from ..runtime_error import RuntimeError
+from .runtime_error import RuntimeError
 
 
 class Arc(Type):

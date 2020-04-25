@@ -1,4 +1,4 @@
-from .types.num import Num
+from .num import Num
 
 
 def scan():

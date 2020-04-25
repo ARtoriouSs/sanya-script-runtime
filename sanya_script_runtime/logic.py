@@ -1,6 +1,6 @@
 from .type import Type
 from .num import Num
-from ..runtime_error import RuntimeError
+from .runtime_error import RuntimeError
 
 
 class Logic(Type):

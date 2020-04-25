@@ -1,7 +1,7 @@
 from .type import Type
 from .graph import Graph
 from .node import Node
-from ..runtime_error import RuntimeError
+from .runtime_error import RuntimeError
 
 
 class Num(Type):
