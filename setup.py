@@ -2,13 +2,13 @@ from distutils.core import setup
 setup(
   name = 'sanya_script_runtime',
   packages = ['sanya_script_runtime'],
-  version = '0.1.4',
+  version = '0.1.5',
   license='MIT',
   description = 'Runtime library for SanyaScript',
   author = 'Alexander Teslovskiy',
   author_email = 'artoriousso@gmail.com',
   url = 'https://github.com/ARtoriouSs/sanya-script-runtime',
-  download_url = 'https://github.com/ARtoriouSs/sanya-script-runtime/archive/0.1.4.tar.gz',
+  download_url = 'https://github.com/ARtoriouSs/sanya-script-runtime/archive/0.1.5.tar.gz',
   keywords = ['SanyaScript', 'Runtime','ANTLR', 'Graph language'],
   install_requires=[],
   classifiers=[
